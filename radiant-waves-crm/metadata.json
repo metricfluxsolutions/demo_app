@@ -1,0 +1,7 @@
+{
+  "name": "Radiant Waves CRM",
+  "description": "A CRM application for Radiant Waves Power Solutions to manage users, customers, and track attendance. This application is designed for both administrators and agents to streamline data entry and reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
